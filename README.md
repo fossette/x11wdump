@@ -4,7 +4,7 @@ X11 Windows Dump To File
 ## Purpose
 Dump all the X11 windows and (some of) their attributes into a file.
 
-## How to build and install x11fstest
+## How to build and install x11wdump
 1. Download the source files and store them in a directory
 2. Go to that directory in a terminal window
 3. To built the executable file, type `make`
